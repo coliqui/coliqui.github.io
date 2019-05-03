@@ -18,12 +18,13 @@ Boque de codigo de texto
 1. Listas
 2. Numeradas
 
-**con dos astericos queda en bold** 
+**con dos astericos queda en bold**
 _con guiones bajos queda en italicas_
 `entre comitas queda codigo`
 
 [Link](url) and ![Image](src)
-``` termina el markdown
+```
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
