@@ -1,30 +1,31 @@
 ## Welcome to GitHub Pages
+## Write-ups de Kolinux
 
-You can use the [editor on GitHub](https://github.com/coliqui/writeups/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Esto es una prueba para ver como funciona el editor de paginas.
+Un [link](http://google.com) se pone asi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Un Markdown
+Un Markdown es una sintaxis facil-de-usar para dar estilo al texto. 
 
 ```markdown
-Syntax highlighted code block
+Boque de codigo de texto
+# Titulo 1
+## Titulo 2
+### Titulo 3
 
-# Header 1
-## Header 2
-### Header 3
+- Listas con
+- Bullets
 
-- Bulleted
-- List
+1. Listas
+2. Numeradas
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**con dos astericos queda en bold** 
+_con guiones bajos queda en italicas_
+`entre comitas queda codigo`
 
 [Link](url) and ![Image](src)
-```
+``` termina el markdown
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
