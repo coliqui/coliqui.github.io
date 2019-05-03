@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 ## Write-ups de Kolinux
 
 Esto es una prueba para ver como funciona el editor de paginas.
