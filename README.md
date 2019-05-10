@@ -7,7 +7,7 @@ Un [link](http://google.com) se pone asi.
 Un Markdown es una sintaxis facil-de-usar para dar estilo al texto. 
 
 ```markdown
-Boque de codigo de texto
+Bloque de codigo de texto
 # Titulo 1
 ## Titulo 2
 ### Titulo 3
@@ -25,7 +25,12 @@ _con guiones bajos queda en italicas_
 [Link](url) and ![Image](src)
 ```
 
+```
 
+Otro bloque
+
+
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
