@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
+title: Sintropezar 
+author: coli quijano
+email: coliqui@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Un montón de disparates, ni más ni menos.
+
+# social links
+twitter_username: https://twitter.com/coliquijano # DO NOT include the @ character, or else the build will fail!
+github_username:  https://coliqui.github.io/github-pages-with-jekyll # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: false # set to false to remove excerpts on the homepage
