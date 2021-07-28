@@ -24,7 +24,7 @@ _con guiones bajos queda en italicas_
 
 [Link](url) and ![Image](src)
 ```
-[Link](/musica/partituras.md)
+[partituras](/musica/partituras.md)
 ```
 
 Otro bloque
